@@ -4,4 +4,6 @@
 
 #### At the core of our philosophy is the belief that modern software should balance **performance with accountability**. Whether developing lightweight databases, secure frameworks, or interpretable AI solutions, we prioritize **clarity over complexity** and **robustness over shortcuts**. Fossil Logic is dedicated to advancing a future where technology remains **lean, secure, and explainable**, enabling developers to build with confidence and users to interact with trust.  
 
+#### To complement our development work, we have founded **Fossil Learning**, an educational initiative that provides **open-source tutorials, labs, and guides** focused on low-level programming, AI explainability, and secure software design. By sharing practical examples and transparent explanations, Fossil Learning helps developers **understand systems deeply, code responsibly, and adopt best practices** for building auditable and reliable software.  
+
 🌐 **Website**: [fossillogic.com](https://fossillogic.com/)
